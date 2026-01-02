@@ -1,2 +1,2 @@
 # tulipCFW
-Omnia CFW
+Flux Omnia CFW
